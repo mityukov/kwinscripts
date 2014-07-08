@@ -1,0 +1,4 @@
+kwinscripts
+===========
+
+KWin scripts
