@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Adapt Google Chrome windows
+Comment=Maximize Google Chrome windows on the screens before certain size. On wider screens, keep Width constant.
+#Icon=chronometer
+Type=Service
+
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
+#X-Plasma-DefaultSize=150,150
+
+X-KDE-ServiceTypes=KWin/Script
+X-KDE-PluginInfo-Author=Vladimir Mityukov
+X-KDE-PluginInfo-Email=mityukov@gmail.com
+X-KDE-PluginInfo-Name=chromesize
+X-KDE-PluginInfo-Version=pre0.1
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
